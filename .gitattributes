@@ -1,2 +1,5 @@
+vendor/* linguist-vendored
+libs/* linguist-vendored
+
 *.c linguist-detectable=true
 h3/* linguist-vendored
