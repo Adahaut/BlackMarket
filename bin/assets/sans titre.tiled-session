@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1638,
+                "y": 896
+            }
+        },
+        "test.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        }
+    },
+    "last.imagePath": "C:/Users/sanzl/Pictures/Saved Pictures",
+    "map.height": 93,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 93,
+    "openFiles": [
+        "test.tsx",
+        "map.tmx"
+    ],
+    "project": "sans titre.tiled-project",
+    "recentFiles": [
+        "test.tsx",
+        "map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.transparentColor": "#ffffff",
+    "tileset.useTransparentColor": true
+}
